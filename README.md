@@ -13,5 +13,6 @@
   - [ ] Manage Seats
   - [ ] Handbook
     - [ ] Chart
+      - [ ] Search
     - [ ] Favorites
   - [ ] Switch Subscription
