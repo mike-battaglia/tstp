@@ -1,14 +1,14 @@
 # Testing Log
 ## UX Workflows
 
-- [ ] **Legacy**
+- [ ] Legacy
   - [ ] Login
   - [ ] Handbook
     - [ ] Chart
     - [ ] Favorites
   - [ ] Switch Subscription
 
-- [ ] **New Edition**
+- [ ] New Edition
   - [ ] Purchase
   - [ ] Manage Seats
   - [ ] Handbook
