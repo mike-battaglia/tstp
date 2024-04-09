@@ -16,3 +16,8 @@
       - [ ] Search
     - [ ] Favorites
   - [ ] Switch Subscription
+
+---
+
+# Bug Index
+1. Chart Search Highlight feature doesn't work if search term is capitalized.
