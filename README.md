@@ -19,5 +19,10 @@
 
 ---
 
-# Bug Index
-1. Chart Search Highlight feature doesn't work if search term is capitalized.
+# Issue Tracker
+1. 🔴 Critical Bugs
+  1. Chart Search: Lazyload is not search friendly for Category Column.
+2. 🟠 Major Bugs
+3. 🟡 Minor Bugs
+  1. Chart Search: Highlight doesn't work when searched term is Capitalized.
+5. 🟢 Future Features
