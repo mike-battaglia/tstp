@@ -20,9 +20,13 @@
 ---
 
 # Issue Tracker
+
 1. 🔴 Critical Bugs
-  1. Chart Search: Lazyload is not search friendly for Category Column.
+  1. Chart Search: Lazyload is not search friendly for Category Column. (May need SearchWP to fix this).
+
 2. 🟠 Major Bugs
+
 3. 🟡 Minor Bugs
   1. Chart Search: Highlight doesn't work when searched term is Capitalized.
-5. 🟢 Future Features
+
+4. 🟢 Future Features
