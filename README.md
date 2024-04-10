@@ -22,17 +22,17 @@
 # Issue Tracker
 
 1. 🔴 Critical Bugs
-  1. Chart Search: Lazyload is not search friendly for Category Column. (May need SearchWP to fix this).
+  - Chart Search: Lazyload is not search friendly for Category Column. (May need SearchWP to fix this).
 
 2. 🟠 Major Bugs
 
 3. 🟡 Minor Bugs
-  1. Chart Search: Highlight doesn't work when searched term is Capitalized.
+  - Chart Search: Highlight doesn't work when searched term is Capitalized.
 
 4. 🟢 Future Features
 
 ---
 # Notable Changes
 1. https://dev.thesalestaxprofessionals.com/product/mfg-vip-annual/
-  1. Team members will have access to Man Ed
-  2. Memberships - Grant Access (null)
+  - Team members will have access to Man Ed
+  - Memberships - Grant Access (null)
