@@ -30,3 +30,9 @@
   1. Chart Search: Highlight doesn't work when searched term is Capitalized.
 
 4. 🟢 Future Features
+
+---
+# Notable Changes
+1. https://dev.thesalestaxprofessionals.com/product/mfg-vip-annual/
+  1. Team members will have access to Man Ed
+  2. Memberships - Grant Access (null)
