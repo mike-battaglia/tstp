@@ -13,4 +13,5 @@ Only non-members can see me.
 [/wcm_nonmember]
 ```
 
-[WC Subs Docs](https://woocommerce.com/document/subscriptions/develop/filter-reference/)
+- [WC Subs Docs - Filters](https://woocommerce.com/document/subscriptions/develop/filter-reference/)
+- [WC Members Docs - Restrict Content](https://woocommerce.com/document/woocommerce-memberships-restrict-content/#:~:text=Restriction%20shortcode,as%20tutorial%20videos%20or%20infographics.)
