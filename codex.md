@@ -25,6 +25,8 @@
 
 [getallaccess]
 
+[wcm_restrict][get_access][/wcm_restrict][wcm_nonmember][nonmembers_prompt][/wcm_nonmember]
+
 ```
 
 ```
