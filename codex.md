@@ -1,16 +1,30 @@
 # Commonly Used Shortcodes
 
-## Membership Based Restrictions
 ```php
 // Memberships Content Restriction
-[wcm_restrict plans="all-access, man-ed, con-ed, sales-tax-vip"]
-Only members can see me.
-[/wcm_restrict]
+[wcm_restrict plans="all-access, man-ed, con-ed, sales-tax-vip"] Only members can see me. [/wcm_restrict]
 
 // Non-members
-[wcm_nonmember]
-Only non-members can see me.
-[/wcm_nonmember]
+[wcm_nonmember] Only non-members can see me. [/wcm_nonmember]
+
+// Subscribers
+[subscribers_content] Active or pending subscribers can see me. [/subscribers_content]
+
+// Non-subscribers
+[nonsubscribers_content] Anybody without an active or pending subscription can see me. [/nonsubscribers_content]
+
+[user_first_name] displays user first name.
+
+[loggedout_content] Logged out users see me. [/loggedout_content]
+
+[loggedin_content] Logged in users see me. [/loggedin_content]
+
+[subscription_link]
+
+[claimseat]
+
+[getallaccess]
+
 ```
 
 ```
