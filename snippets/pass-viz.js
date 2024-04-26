@@ -1,5 +1,3 @@
-console.log('🟢☕ Custom JS Plugin');
-
 document.addEventListener('DOMContentLoaded', function() {
   var passwordInput = document.querySelector('input[name="pwd"]');
   
@@ -7,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var passwordToggle = document.createElement('span');
     passwordToggle.className = 'password-toggle';
     passwordToggle.setAttribute('onclick', 'togglePasswordVisibility()');
-    passwordToggle.textContent = '👁️';
+    passwordToggle.innerHTML = '<i class="fa fa-eye"></i>';
     
     passwordInput.insertAdjacentElement('afterend', passwordToggle);
   }
@@ -16,12 +14,13 @@ document.addEventListener('DOMContentLoaded', function() {
 function togglePasswordVisibility() {
   var passwordInput = document.querySelector('input[name="pwd"]');
   var passwordToggle = document.querySelector('.password-toggle');
+  var iconElement = passwordToggle.querySelector('i');
   
   if (passwordInput.type === 'password') {
     passwordInput.type = 'text';
-    passwordToggle.textContent = '❌';
+    iconElement.className = 'fa fa-eye-slash';
   } else {
     passwordInput.type = 'password';
-    passwordToggle.textContent = '👁️';
+    iconElement.className = 'fa fa-eye';
   }
 }
