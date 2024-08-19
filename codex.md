@@ -41,3 +41,6 @@ SeatV: [wcm_restrict plans="sales-tax-vip"]🟢[/wcm_restrict][wcm_nonmember pla
 
 - [WC Subs Docs - Filters](https://woocommerce.com/document/subscriptions/develop/filter-reference/)
 - [WC Members Docs - Restrict Content](https://woocommerce.com/document/woocommerce-memberships-restrict-content/#:~:text=Restriction%20shortcode,as%20tutorial%20videos%20or%20infographics.)
+
+---
+[posts_table post_type="contractor-data" columns="title:Purchase Of,content:Details,excerpt:Category,cf:description:More Info,tax:relationship:Company,tax:job-type:Client,tax:work-type:Performing,cf:taxability_status:Taxability,favorite,notes" filters="true"]
